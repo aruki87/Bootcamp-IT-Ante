@@ -6,7 +6,7 @@ int main()
 {
 	cout << "Hello World!" << endl; //log hello world
 	cout << "Hello!" << endl; //log hello
-	cout << "!!!!!!!!!!!!!!!!" << endl; //log !!!!!!!!!!!!
+	cout << "123" < endl;
 	system("PAUSE");
 	return 0; //return no error
 }
